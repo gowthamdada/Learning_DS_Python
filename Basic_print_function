@@ -1,0 +1,2 @@
+#print the value inside the function
+print("Hello, World")
