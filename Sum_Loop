@@ -1,0 +1,11 @@
+#sum of natural numbers
+M = int(input())
+
+num = 1
+N = 0
+while num <= M:
+    N = N + num
+    num = num + 1
+    
+print(N)
+
